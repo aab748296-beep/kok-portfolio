@@ -1,8 +1,8 @@
 // Mock Data - بيانات وهمية للعرض
 
 export const siteConfig = {
-  name: "KOK",
-  title: "مطور مواقع محترف",
+  name: "Programmer Muhammad",
+  title: "Professional website developer",
   description: "أصمم وأطور مواقع ويب احترافية بأحدث التقنيات",
   telegram: "https://t.me/KOK0KK",
 };
@@ -12,7 +12,7 @@ export const services = [
     id: 1,
     title: "موقع شخصي / بورتفوليو",
     description: "موقع احترافي لعرض أعمالك ومهاراتك بتصميم عصري وجذاب",
-    price: 200,
+    price: EG 150,
     currency: "$",
     delivery: "3 أيام",
     features: ["تصميم متجاوب", "5 صفحات", "نموذج تواصل", "تحسين SEO"],
@@ -21,7 +21,7 @@ export const services = [
     id: 2,
     title: "موقع شركة / بيزنس",
     description: "موقع متكامل لشركتك يعرض خدماتك ويجذب العملاء",
-    price: 400,
+    price:"EG"300,
     currency: "$",
     delivery: "5 أيام",
     features: ["تصميم متجاوب", "10 صفحات", "لوحة تحكم", "نظام مدونة", "تحسين SEO"],
